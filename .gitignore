@@ -1,6 +1,6 @@
 HELP.md
 target/
-!.mvn/wrapper/maven-wrapper.jar
+!../../../Users/otavio.ferreira/AppData/Roaming/JetBrains/IntelliJIdea2023.2/extensions/.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
 
